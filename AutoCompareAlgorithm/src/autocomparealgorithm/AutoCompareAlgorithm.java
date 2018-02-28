@@ -32,7 +32,7 @@ public class AutoCompareAlgorithm {
         CompareAlgorithm algorithm = new CompareAlgorithm();
         //initData();
         //Chay test case tu 6 den 10
-        for (int i = 6; i <= 8; i++) {
+        for (int i = 6; i <= 7; i++) {
             try {
                 //Cai dat ten File
                 String filename = "test"+i+".INP";
